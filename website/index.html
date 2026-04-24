@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Scheduling (Minimax)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Smart Job Scheduling</h1>
+
+        <div class="input-section">
+            <h3>Enter Jobs</h3>
+            <textarea id="jobsInput" placeholder='Example:
+Job1,5
+Job2,3
+Job3,7'></textarea>
+        </div>
+
+        <button onclick="runScheduler()">Find Best Schedule</button>
+
+        <div class="output-section">
+            <h3>Result</h3>
+            <p id="result"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
