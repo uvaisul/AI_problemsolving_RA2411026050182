@@ -14,7 +14,7 @@
 
 ## 🌐 Application Link
 
-* **GitHub Repository:** https://github.com/your-username/AI_ProblemSolving_<RegisterNumber>
+* **GitHub Repository:** (https://github.com/uvaisul/AI_problemsolving_RA2411026050182.git)
 * **Web App (Frontend Demo):**(https://ai-problemsolving-ra-2411026050182-khaki.vercel.app/)
 
 ---
